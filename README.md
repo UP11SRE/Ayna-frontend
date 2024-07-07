@@ -10,6 +10,17 @@ This Project is a dynamic web application built with React that fosters real-tim
 - Secure Login: Ayna prioritizes user privacy. To join the chat room, registration and login are mandatory. This ensures only authorized users can participate, fostering a safe and secure environment.
 - Personalized Identity: Each registered user retains their unique username within the chat room, allowing for clear identification and personalized interactions.
 
+# Frontend Technology Stack:
+
+- React.js
+
+# Frontend Pages:
+
+- Register: This page allows users to create new accounts with Ayna. Upon successful registration, users are added to the "Registered Users" collection in the Strapi backend.
+- Login: Registered users can enter their credentials on this page to gain access to the chat room functionality.
+- Chat Join: Once logged in, users can join the chat room through this page. Ayna verifies if the username attempting to join is registered before granting access.
+- Chat Room: The heart of the application, this page provides the real-time chat experience. Leveraging Socket.IO's private chat function, users can send and receive messages within their private chat window.
+
 # Getting Started:
 
 - Clone the Repository: Grab your copy of the Ayna codebase using Git.
