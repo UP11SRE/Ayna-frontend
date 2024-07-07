@@ -24,9 +24,9 @@ This Project is a dynamic web application built with React that fosters real-tim
 # Getting Started:
 
 - Clone the Repository: Grab your copy of the Ayna codebase using Git.
-- Install Dependencies: Ensure you have the necessary tools by running yarn install.
-- Build for Production: Prepare the application for deployment with yarn build.
-- Start the Development Server: Launch Ayna locally at http://localhost:3000 using yarn start. This allows you to test and refine the application before deployment.
+- Install Dependencies: Ensure you have the necessary tools by running : yarn install.
+- Build for Production: Prepare the application for deployment with: yarn build.
+- Start the Development Server: Launch Ayna locally at http://localhost:3000 using: yarn start. This allows you to test and refine the application before deployment.
 
 # Deployment:
 
