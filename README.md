@@ -26,7 +26,7 @@ This Project is a dynamic web application built with React that fosters real-tim
 
 # Project Overview Video:
 
-- For a visual demonstration of Ayna's functionalities, you can access a video walkthrough at: https://www.loom.com/share/5d9f22d342d04422b7387ccd65d783c8?sid=04541838-ed7f-4207-a9d9-7c07c6c54e60 (Please note, you may need to replace the bracketed link with the actual URL).
+- For a visual demonstration of Ayna's functionalities, you can access a video walkthrough at:https://www.loom.com/share/360468407dc14490886bdeac1c377d04?sid=31ed7ea8-a248-4e20-be4c-bff720e8a5a3
 
 # Embrace the Power of Real-Time Communication
 
